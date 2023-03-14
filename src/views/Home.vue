@@ -9,7 +9,7 @@
       <div class="container mx-auto">
         <div class="text-white main-header-content">
           <h1 class="font-bold text-5xl mb-5">{{ $t("home.listen") }}</h1>
-          <p class="w-full md:w-8/12 mx-auto">
+          <p class="font-bold md:w-8/12 mx-auto">
             {{ $t("home.lead") }}
           </p>
         </div>
