@@ -8,7 +8,8 @@
   },
   "home": {
     "listen": "Listen to Great Music!",
-    "songs": "Songs"
+    "songs": "Songs",
+    "lead": "At the epicenter of sound"
   },
   "song": {
     "comment_count": "No comments | 1 comments | {count} comments"
