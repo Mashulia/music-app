@@ -1,0 +1,32 @@
+{
+  "header": {
+    "music": "Music",
+    "about": "About",
+    "login": "Login / Register",
+    "manage": "Manage",
+    "logout": "Logout"
+  },
+  "home": {
+    "listen": "Listen to Great Music!",
+    "songs": "Songs"
+  },
+  "song": {
+    "comment_count": "No comments | 1 comments | {count} comments"
+  },
+  "register": {
+    "accept": "I accept Music's {0}",
+    "tos": "Terms of Service"
+  },
+  "manage": {
+    "my_songs": "My songs"
+  },
+  "composition_item": {
+    "submit": "Submit",
+    "back": "Go back",
+    "song_title": "Song title",
+    "genre": "Genre"
+  },
+  "upload": {
+    "upload": "Upload"
+  }
+}
